@@ -1,4 +1,3 @@
-const { Script } = require("vm");
 
 const listaArgumentos = (process.argv.slice(2));
 

@@ -1,1 +1,1 @@
-console.log('Ola mundo! Esse é meu promeiro pragrama nodejs.');
+console.log('Ola mundo! Esse é meu primeiro pragrama nodejs.');
